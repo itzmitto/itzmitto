@@ -7,6 +7,6 @@ I build web applications and I'm currently learning and working with TypeScript,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzmitto&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmitto&layout=compact&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itzmitto&show_icons=true&hide_border=true&theme=radical&rank_icon=percentile&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmitto&layout=compact&hide_border=true&theme=radical&langs_count=8" height="180"/>
 </p>
