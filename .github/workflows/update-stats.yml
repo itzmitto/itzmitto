@@ -15,7 +15,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&custom_title=Andr%C3%A9%27s%20GitHub%20Stats&show_icons=true&hide=issues,contribs&include_all_commits=true&rank_icon=percentile&ring_color=ff6b9d&line_height=28&number_format=short&text_bold=true&bg_color=0d1117&title_color=ff6b9d&text_color=f0f0f0&icon_color=5cc9ff&border_color=3d3d4d
+          options: '{"username":"${{ github.repository_owner }}","show_icons":true,"hide":["issues","contribs"],"bg_color":"0d1117","title_color":"ff6b9d","text_color":"f0f0f0","icon_color":"5cc9ff","border_color":"3d3d4d"}'
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: 💻 Generate top languages
