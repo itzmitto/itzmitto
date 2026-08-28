@@ -1,8 +1,8 @@
 # 👋 Hi, I'm André
 
-I'm a software developer from the Netherlands.
+I'm a software developer from the Netherlands. 
 
-I build web applications and I'm currently learning and working with TypeScript, React, Laravel, PHP and Tailwind CSS.
+I build web applications and I'm currently learning and working with TypeScript, React, Laravel, PHP and Tailwind CSS. 
 
 ## 📊 GitHub Stats
 
